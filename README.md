@@ -20,7 +20,8 @@ A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina 
 
 | Exercício | Dificuldade | Id Leetcode | Linguagem | Código |
 | -- | -- | -- | -- | -- |
-| [Enunciado ]() | Dificil | [id]() | JavaScript| [codigo]() |
+| [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/879-enunciado.pdf) | Dificil | [879](https://leetcode.com/problems/profitable-schemes/description/) | JavaScript| [codigo](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/879-esquemasLucrativos.js) |
+| [Enunciado ]() | Dificil | [id](https://leetcode.com/problems/profitable-schemes/description/) | JavaScript| [codigo]() |
 | [Enunciado ]() | Dificil | [id]() | Python| [codigo]() |
 
  
@@ -32,7 +33,11 @@ GITHUB: [Video]()
 
 ## Screenshots
 
-### id - titulo
+### 879 - Esquemas Lucrativos
+
+![879](/images/879-tentativa.png)
+
+### ID - Titulo
 
 ![id]()
 
