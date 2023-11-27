@@ -22,7 +22,7 @@ A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina 
 | -- | -- | -- | -- | -- |
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/879-enunciado.pdf) | Dificil | [879](https://leetcode.com/problems/profitable-schemes/description/) | JavaScript| [codigo](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/879-esquemasLucrativos.js) |
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/312-enunciado.pdf) | Dificil | [312](https://leetcode.com/problems/burst-balloons/description/) | JavaScript| [codigo](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/312-estourarBaloes.js) |
-| [Enunciado ]() | Dificil | [id]() | JavaScript| [codigo]() |
+| [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/532-Tentativa.png) | Dificil | [532](https://leetcode.com/problems/student-attendance-record-ii/description/) | JavaScript| [codigo](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/532-registroPresencaAluno.js) |
 | [Enunciado ]() | Dificil | [id]() | Python| [codigo]() |
 
  
@@ -41,6 +41,10 @@ GITHUB: [Video]()
 ### 312 - Estourar Balões
 
 ![312](/images/312-tentativa.png)
+
+### 532 - Registro de presenças dos alunos II
+
+![532](/images/532-Tentativa.png)
 
 ### ID - Titulo
 
