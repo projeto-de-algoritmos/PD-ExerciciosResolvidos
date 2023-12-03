@@ -66,7 +66,7 @@ GITHUB: [Video]()
 
 ![32](/images/32-solucao.png)
 
-###42 - Retendo a água da chuva
+### 42 - Retendo a água da chuva
 
 ![42](/images/42-solucao.png)
 
