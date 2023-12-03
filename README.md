@@ -26,6 +26,8 @@ A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina 
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/10-enunciado.pdf) | Dificil | [10](https://leetcode.com/problems/regular-expression-matching/) | Python| [10.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/10.py) |
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/2945-enunciado.pdf) | Dificil | [2945](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/) | Python | [2945.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/2945.py)
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/2926-enunciado.pdf) | Dificil | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/) | Python | [2926.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/2926.py)
+| [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/32-enunciado.pdf) | Dificil | [32](https://leetcode.com/problems/longest-valid-parentheses/description/) | Python | [32.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/32.py)
+| [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/42-enunciado.pdf) | Dificil | [42](https://leetcode.com/problems/trapping-rain-water/) | Python | [42.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/42.py)
 
  
 ## Video
@@ -59,6 +61,14 @@ GITHUB: [Video]()
 ### 2926 - Soma Máxima de Subsequência Balanceada
 
 ![2926](/images/2926-solucao.png)
+
+### 32 - Parênteses válidos mais longos
+
+![32](/images/32-solucao.png)
+
+###42 - Retendo a água da chuva
+
+![42](/images/42-solucao.png)
 
 ## Instalação 
 
