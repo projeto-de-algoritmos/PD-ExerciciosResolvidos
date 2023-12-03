@@ -25,6 +25,7 @@ A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina 
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/532-Tentativa.png) | Dificil | [532](https://leetcode.com/problems/student-attendance-record-ii/description/) | JavaScript| [532.js](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/532-registroPresencaAluno.js) |
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/10-enunciado.pdf) | Dificil | [10](https://leetcode.com/problems/regular-expression-matching/) | Python| [10.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/10.py) |
 | [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/2945-enunciado.pdf) | Dificil | [2945](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/) | Python | [2945.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/2945.py)
+| [Enunciado ](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/2926-enunciado.pdf) | Dificil | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/) | Python | [2926.py](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/2926.py)
 
  
 ## Video
@@ -53,7 +54,11 @@ GITHUB: [Video]()
 
 ### 2945 - Encontre o comprimento máximo não decrescente da matriz
 
-![10](/images/10-solucao.png)
+![2945](/images/2945-solucao.png)
+
+### 2926 - Soma Máxima de Subsequência Balanceada
+
+![2926](/images/2926-solucao.png)
 
 ## Instalação 
 
