@@ -32,9 +32,9 @@ A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina 
  
 ## Video
 
-YOUTUBE: [Video]() 
+YOUTUBE: [Video](https://youtu.be/PvMiyPyqGIY) 
 
-GITHUB: [Video]()
+GITHUB: [Video](https://github.com/projeto-de-algoritmos/PD-ExerciciosResolvidos/blob/main/images/PA-video.mp4)
 
 ## Screenshots
 
