@@ -14,7 +14,7 @@ Repositório destinado a armazenar os exercícios do 5° módulo da disciplina d
 
 ## Sobre 
 
-A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de X exercícios sobre o assunto de Programação Dinâmica. Exercícios Executados:
+A aplicação dos conceitos de Programação Dinâmica aprendidos na disciplina de Projeto de Algoritmos da disciplina foi realizada por meio da realização de 8 exercícios sobre o assunto de Programação Dinâmica. Exercícios Executados:
 
 ### Exércicios executados
 
